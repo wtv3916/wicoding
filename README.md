@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# wicoding
+Love Coding
+>>>>>>> 79f583101a0a546c0a8977c0656e30db56a6bcb9
